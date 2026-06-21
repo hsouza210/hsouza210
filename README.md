@@ -10,7 +10,7 @@
 
 
 
-   <img src="https://files.grok.x.ai/share/rxmUi.png" width="10%">"  
+![Linguagens](https://files.grok.x.ai/share/rxmUi.png)
 
 
   
