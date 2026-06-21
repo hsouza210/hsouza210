@@ -19,3 +19,10 @@
 - Tecnologia
 
 
+## 🎯 Objetivos
+
+- Aprimorar minhas habilidades em desenvolvimento de software.
+- Aprofundar meus conhecimentos em programação e banco de dados.
+- Desenvolver projetos que contribuam para meu crescimento profissional.
+- Aprender novas tecnologias e boas práticas de desenvolvimento.
+- Construir um portfólio sólido para ingressar no mercado de tecnologia.
