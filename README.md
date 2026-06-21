@@ -9,11 +9,6 @@
 🚀 Este perfil contém parte da minha experiencia como técnico em Desenvolvimento de Sistemas.
 
 
-
-<img width="828" height="207" alt="Captura de tela 2026-06-21 015809" src="https://github.com/user-attachments/assets/4d65d397-30aa-4611-9977-ab686270f227" />
-" width="100%">
-
-
   
 ## 📚 Interesses
 
