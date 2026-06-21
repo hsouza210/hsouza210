@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/0c/f4/d5/0cf4d51f6960979956fe8a004c8949d7.jpg" width="10%">
+  <img src="https://i.pinimg.com/736x/82/b2/9a/82b29a22339deb8c994675c07896eb9c.jpg" width="10%">
 </p>
 
 # 👨‍💻 Henzo Souza
