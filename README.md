@@ -10,7 +10,7 @@
 
 
 
-   <img src="https://grok.com/share/c2hhcmQtMi1jb3B5_400c795a-80b5-4bda-ac32-d21db58746b0" width="10%">"  
+   <img src="https://files.grok.x.ai/share/rxmUi.png" width="10%">"  
 
 
   
