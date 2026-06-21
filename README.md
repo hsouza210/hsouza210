@@ -1,16 +1,23 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://i.pinimg.com/736x/0c/f4/d5/0cf4d51f6960979956fe8a004c8949d7.jpg" width="100%">
+</p>
 
-<!--
-**hsouza210/hsouza210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Henzo Souza
 
-Here are some ideas to get you started:
+🎓 Estudante da ETECVAV
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Este perfil contém parte da minha experiencia em desenvolvimento de sistemas.
+
+
+
+## 📚 Interesses
+
+- Desenvolvimento de Software
+- Programação
+- Banco de Dados
+- Tecnologia
+- Batman Arkham 🦇
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
